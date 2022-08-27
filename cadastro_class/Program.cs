@@ -28,7 +28,7 @@ namespace cadastro_class
                var texto= Console.ReadLine();
                 if (texto == "s") lopp= false;
             } while  (lopp); 
-            
+              
 
 
 
